@@ -1,6 +1,7 @@
 # pigmySoftware
 
-     Pigmy collection is the system in which the small shops can save amount and deposit them in to the banks on a daily basis . A bank person comes to the 
+    
+Pigmy collection is the system in which the small shops can save amount and deposit them in to the banks on a daily basis . A bank person comes to the 
 door step and collects the amount and issues him a receipt . The receipt contains the detailslike the date and time of amount receiving  , amount received by , amount received from etc. 
          This process is carried out using ledger books and paper receipts . Hence the purpose of this project is to give a software solution to this problem.
 
