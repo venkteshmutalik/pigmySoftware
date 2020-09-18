@@ -6,6 +6,11 @@ door step and collects the amount and issues him a receipt . The receipt contain
          This process is carried out using ledger books and paper receipts . Hence the purpose of this project is to give a software solution to this problem.
 
 
+
+<img src="" width="100">
+
+
+
 ** OBJECTIVE:
         Create a software in which the bank agent can collect the amount , issue a receipt through sms or email to the customer , generate reports for himself ,  generate reports for the customer .
 
