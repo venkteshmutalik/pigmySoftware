@@ -1,6 +1,6 @@
 ![Screenshot (264)](https://user-images.githubusercontent.com/44236801/98447583-f153d900-214b-11eb-85ae-ff9702f80199.png)
 ![Screenshot (266)](https://user-images.githubusercontent.com/44236801/98447585-f31d9c80-214b-11eb-8d27-b027d0735fbb.png)
-![Screenshot (94)](https://user-images.githubusercontent.com/44236801/94052303-5f3f7d80-fdf6-11ea-8da7-899c776520c8.png)
+
 ![Screenshot (96)](https://user-images.githubusercontent.com/44236801/94052353-72eae400-fdf6-11ea-82b7-66378222427f.png)
 ![Screenshot (97)](https://user-images.githubusercontent.com/44236801/94052368-78482e80-fdf6-11ea-82a1-6cf336a985fe.png)
 ![Screenshot (99)](https://user-images.githubusercontent.com/44236801/94052376-7b431f00-fdf6-11ea-88ad-3587c63c9c69.png)
@@ -17,10 +17,10 @@ door step and collects the amount and issues him a receipt . The receipt contain
         Create a software in which the bank agent can collect the amount , issue a receipt through sms or email to the customer , generate reports for himself ,  generate reports for the customer .
 
 
-** TECHNOLOGIES USED: 
-1. Operating System   : Windows 10
-2. Visual Modelling   : Visual Paradigm
-3. IDE                : NetBeans IDE 8.0.2
-4. Database           : Java DB (Derby) Database
-5.Programming Language: Java
+ TECHNOLOGIES USED: 
+1. Operating System    : Windows 10
+2. Visual Modelling    : Visual Paradigm
+3. IDE                 : NetBeans IDE 8.0.2
+4. Database            : Java DB (Derby) Database
+5. Programming Language: Java
 
